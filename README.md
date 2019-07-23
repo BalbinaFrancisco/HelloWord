@@ -1,5 +1,4 @@
 # HelloWord
-MyRepository
 
 Hello guys!
 
